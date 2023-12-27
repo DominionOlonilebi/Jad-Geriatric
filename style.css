@@ -1,0 +1,336 @@
+.healthy{
+    border-radius: 30px;
+    background-image: url('solid7.jpg') ;
+    background-size: cover;
+    overflow: hidden;
+}
+.healthy .nav li{
+    margin-left: 50px;
+}
+.healthy .nav li a{
+text-decoration: none;
+color: rgb(44, 1, 1);
+font-size: 18px;
+}
+.healthy .nav li a:hover{
+    color: rgb(238, 84, 28);
+}
+.healthy .navbar-brand{
+    color: rgb(44, 1, 1);
+    font-size: 30px;
+}
+.health .health-img{
+    margin-top: 70px;
+    margin-left: 120px;
+}
+.health h1{
+    margin-top: 140px;
+    color: rgb(44, 1, 1);
+    font-size: 48px
+}
+.health h1 span{
+    color: rgb(238, 84, 28);
+}
+.health button{
+    border-radius: 30px;
+    font-size: 14px;
+    padding-right: 18px;
+    padding-left: 18px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+border-top-color: silver;
+border-bottom-color:silver;
+}
+.health .cl{
+    border-radius: 30px;
+    background-color: rgb(88, 172, 40);
+    font-size: 14px;
+    border: none;
+    padding-right: 14px;
+    padding-left: 14px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #fff;
+    text-align: center;
+}
+.health .cl span{
+    background-color: #fff;
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 50%;
+    color: rgb(88, 172, 40);
+    font-size: 20px;
+    margin-left: 20px;
+}
+.media{
+    background-color: rgb(29, 0, 0);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: rgb(190, 111, 65);
+    border-radius: 25px;
+    margin-top: -33px;
+    transition: transform 3.5s;
+}
+.media h5:hover{
+    color: #fff;
+    transform: translateX(-25px);
+}
+.design{
+    background-color: rgb(245, 227, 184);
+    border-radius: 15px;
+    padding-bottom: 100px;
+}
+.design .texts{
+    padding-top: 80px;
+    color: rgb(44, 1, 1);
+    text-align: center;
+}
+.text{
+    text-align: center;
+    color: rgb(44, 1, 1);
+}
+.text span{
+    color: rgb(139, 68, 2);
+}
+.num{
+    color: rgb(44, 1, 1);
+    font-size: 55px;
+    padding-top: 20px;
+}
+.num span{
+    color: rgb(238, 84, 28);
+}
+.num .arrow{
+    color: rgb(44, 1, 1);
+    font-size: 30px;
+    display: flex;
+    justify-content: flex-end;
+}
+.number{
+    background-color: #fff;
+    border-radius: 20px;
+    transition: transform 0.8s;
+    box-sizing: border-box;
+    box-shadow: 0 5px 10px rgba(83, 82, 82, 0.4);
+}
+.number:hover{
+    transform: translateY(-8px);
+}
+.note{
+    background-color: rgb(176, 221, 155);
+    margin-top: 50px;
+    border-radius: 30px;
+}
+.features{
+    background-color: rgb(105, 160, 60);
+    border-radius: 30px;
+    margin-top: 20px;
+    padding-bottom: 70px;
+}
+.features .ai{
+    padding-top: 70px;
+}
+.features h2{
+    color: #fff;
+    padding-bottom: 25px;
+}
+.features .card{
+    border-radius: 30px;
+    margin-bottom: 10px;
+    margin-left: -15px;
+    transition: transform 0.8s;
+}
+.features .card:hover{
+    transform: translateX(-7px);
+}
+.features .card span{
+    background-color: rgb(238, 154, 28);
+    margin-left: 170px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 14px;
+    padding-left: 14px;
+    border-radius: 50%;
+    color: rgb(44, 1, 1);
+}
+.filled{
+    margin-top: 130px;
+}
+.filled .imagess{
+    border-radius: 50%;
+}
+.journey{
+    background-color: rgb(238, 84, 28);
+    margin-top: 90px;
+    padding-top: 100px;
+    border-radius: 30px;
+    padding-bottom: 30px;
+}
+.journey .sections{
+    text-align: center;
+    color: #fff;
+}
+.journey .sections .cl{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border-radius: 29px;
+    background-color: #fff;
+    border: none
+}
+.journey .sections .cl1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border-radius: 29px;
+    background-color: #fff;
+    border: none
+}
+.journey .sections .cl span{
+    background-color: rgb(88, 172, 40);
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.journey .sections .cl1 span{
+    background-color: rgb(238, 154, 28);
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.journey .sections h1{
+    font-size: 50px;
+}
+.journey .sectionss{
+    border-radius: 35px;
+}
+.card h5{
+    text-align: center;
+}
+.news .card{
+    align-items: center;
+    border-radius: 20px;
+    background-color: rgb(221, 209, 189);
+    padding-bottom: 40px;
+    color: rgb(44, 1, 1);
+    transition: transform 1.2s;
+    box-sizing: border-box;
+    box-shadow: 0 5px 10px rgba(41, 26, 26, 0.4);
+}
+.news .card:hover{
+    transform: translateY(-15px);
+}
+.news .news-cl{
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 26px;
+    padding-right: 26px;
+    border-radius: 29px;
+    background-color: rgb(105, 160, 60);
+    border-color: rgb(105, 160, 60);
+color: #fff;
+}
+.newss h1{
+    margin-top: 100px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: rgb(44, 1, 1);
+}
+.comment{
+    background-color: rgb(216, 202, 178);
+    margin-top: 120px;
+    border-radius: 20px;
+    margin-bottom: 8px;
+}
+.comment .cmt{
+    border-radius: 25px;
+}
+.comment h4{
+    text-align: center;
+    padding-top: 180px;
+}
+.footers{
+    background-color: rgb(29, 0, 0);
+    text-align: center;
+    color: burlywood;
+    border-top-right-radius: 20px ;
+    border-top-left-radius: 20px ;
+    padding-bottom: 3px;
+}
+.footers h3{
+    padding-top: 100px;
+    margin-bottom: 80px;
+}
+.footers .footer-btn{
+    margin-bottom: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 22px;
+    padding-right: 22px;
+    border-radius: 29px;
+    background-color: rgb(78, 31, 31);
+    border: none;
+    color: burlywood;
+}
+.footers .footer-btn:hover{
+    background-color: #fff;
+    color: rgb(78, 31, 31);
+    border: none;
+}
+.footers h6{
+    margin-bottom: 80px;
+}
+.footers h6 a{
+    color: burlywood;
+    text-decoration: none;
+}
+.footers h6 a:hover{
+    color: #fff;
+}
+.footers p{
+    padding-bottom: 40px;
+}
+.footers h5{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #fff;
+text-align: center;
+    color: rgb(44, 1, 1);
+    border-radius: 35px;
+}
+.footers h5 span{
+    color: rgb(95, 70, 2);
+}
+.footers h5 .bn1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 26px;
+    padding-right: 26px;
+    border-radius: 29px;
+    background-color: rgb(238, 84, 28);
+    border-color: rgb(238, 84, 28);
+}
+.footers h5 .bn2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 26px;
+    padding-right: 26px;
+    border-radius: 29px;
+    background-color: rgb(105, 160, 60);
+    border-color: rgb(105, 160, 60);
+}
